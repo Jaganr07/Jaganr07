@@ -38,6 +38,12 @@
 
 ---
 
+## 🏆 GeeksforGeeks Contributions
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Contributions-green?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/jaganrtxe8/profile)
+
+---
+
 ## 📫 Connect with Me
 
 <p align="center">
