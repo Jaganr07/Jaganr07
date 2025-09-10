@@ -7,10 +7,10 @@
 
 ## About Me
 <p align="left">
-💻 Front-End Developer | Crafting interactive & user-friendly web experiences <br>
-🌱 Exploring modern web technologies & constantly improving my skills  <br>
-🚀 Turning ideas into responsive, beautiful, and efficient web apps<br>
-🎯 Passionate about coding challenges, optimization, and clean code<br>
+💻 Front-End Developer | Crafting interactive & user-friendly web experiences <br><br>
+🌱 Exploring modern web technologies & constantly improving my skills  <br><br>
+🚀 Turning ideas into responsive, beautiful, and efficient web apps<br><br>
+🎯 Passionate about coding challenges, optimization, and clean code<br><br>
 </p>
 
 ---
