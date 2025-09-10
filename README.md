@@ -6,12 +6,12 @@
 <h1 align="center">Hi there, I'm Jagan 👋</h1>
 
 ## About Me
-<pre align="left">
-💻 Front-End Developer | Crafting interactive & user-friendly web experiences  
-🌱 Exploring modern web technologies & constantly improving my skills  
-🚀 Turning ideas into responsive, beautiful, and efficient web apps
-🎯 Passionate about coding challenges, optimization, and clean code
-</pre>
+<p align="left">
+💻 Front-End Developer | Crafting interactive & user-friendly web experiences <br>
+🌱 Exploring modern web technologies & constantly improving my skills  <br>
+🚀 Turning ideas into responsive, beautiful, and efficient web apps<br>
+🎯 Passionate about coding challenges, optimization, and clean code<br>
+</p>
 
 ---
 
