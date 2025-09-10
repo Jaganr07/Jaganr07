@@ -4,10 +4,12 @@
 
 <h1 align="center">Hi there, I'm Jagan 👋</h1>
 
-<p align="center">
-💻 <b>Full-Stack Developer | React, Django & Flutter Enthusiast</b><br>
-🌱 Always learning new technologies and building real-world apps<br>
-🚀 Passionate about solving problems through clean and efficient code
+
+<p align="left">
+💻 Front-End Developer | Crafting interactive & user-friendly web experiences  
+🌱 Exploring modern web technologies & constantly improving my skills  
+🚀 Turning ideas into responsive, beautiful, and efficient web apps
+🎯 Passionate about coding challenges, optimization, and clean code
 </p>
 
 ---
@@ -17,8 +19,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
