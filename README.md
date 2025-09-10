@@ -5,12 +5,12 @@
 <h1 align="center">Hi there, I'm Jagan 👋</h1>
 
 
-<p align="left">
+<pre align="left">
 💻 Front-End Developer | Crafting interactive & user-friendly web experiences  
 🌱 Exploring modern web technologies & constantly improving my skills  
 🚀 Turning ideas into responsive, beautiful, and efficient web apps
 🎯 Passionate about coding challenges, optimization, and clean code
-</p>
+</pre>
 
 ---
 
@@ -43,14 +43,6 @@
 <a href="https://YOUR_PORTFOLIO_URL/"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="mailto:jaganr2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Jaganr07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jaganr07&show_icons=true&theme=radical" />
 </p>
 
 ---
