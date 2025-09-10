@@ -38,7 +38,7 @@
 
 ---
 
-## 🏆 GeeksforGeeks Contributions
+## 🏆 GeeksforGeeks Stats
 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Contributions-green?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/jaganrtxe8/profile)
 
