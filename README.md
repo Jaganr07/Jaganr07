@@ -40,7 +40,7 @@
 
 ## 🏆 LeetCode Stats
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-jaganrtxe8-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/jaganrtxe8/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-jaganrtxe8-orange?style=for-the-badge&logo=leetcode)]([https://leetcode.com/jaganrtxe8/](https://leetcode.com/u/jagan2005/))
 
 ---
 
