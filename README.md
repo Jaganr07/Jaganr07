@@ -38,9 +38,9 @@
 
 ---
 
-## 🏆 GeeksforGeeks Stats
+## 🏆 LeetCode Stats
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Contributions-green?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/jaganrtxe8/profile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-jaganrtxe8-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/jaganrtxe8/)
 
 ---
 
